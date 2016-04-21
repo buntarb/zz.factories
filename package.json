@@ -1,0 +1,19 @@
+{
+	"name": "zz.factories",
+	"version": "20160421.0.0",
+	"description": "Base factories for imazzine-developer-lib.",
+	"author": {
+		"name": "Artem Lytvynov",
+		"email": "buntarb@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.factories/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buntarb/zz.factories.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
