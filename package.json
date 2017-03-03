@@ -1,6 +1,6 @@
 {
 	"name": "zz.factories",
-	"version": "20161222.0.2",
+	"version": "20170303.0.0",
 	"description": "Base factories for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
@@ -19,7 +19,6 @@
 	},
 	"dependencies": {
 
-	    "imazzine-developer-kit": "",
-		"zz.environment": ""
+	    "imazzine-developer-kit": ""
 	}
 }
